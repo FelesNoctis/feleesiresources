@@ -1,7 +1,7 @@
 # SkyrimSE
 Skyrim Special Edition Micromods
 
-
+-------------------------
 ### ZealotofMagnus_ST175.7z
 Zealot of Magnus - Soul Trap 175mag
 * Mod that allows the player to cast the Staff of Magnus effect as a spell.
